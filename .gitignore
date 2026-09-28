@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+Python/.zhaopin-browser-profile/
+Python/zhaopin-resumes/
+Python/zhaopin-online-resumes/
+Python/zhaopin-attachment-resumes/
